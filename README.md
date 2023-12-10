@@ -1,2 +1,2 @@
-# aru
+# Aruzhan
 react-app
